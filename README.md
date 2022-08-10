@@ -12,7 +12,7 @@ Neste desafio criei uma página web aplicando conceitos de responsividade para a
 
 <br>
 
-https://user-images.githubusercontent.com/87450820/183786656-4b34c9a5-0a4c-4a7b-9d20-41799f7c26a0.mp4
+https://user-images.githubusercontent.com/87450820/183907042-0044d500-4ac9-4897-973f-54eec3df7029.mp4
 
 ## ✏️ Aprendizados
 
