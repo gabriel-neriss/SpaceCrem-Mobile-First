@@ -6,7 +6,7 @@ Neste desfio criei uma página web aplicando conceitos de responsividade para ad
 
 ## 💻📲 Demonstração
 
-![1](https://user-images.githubusercontent.com/87450820/183786497-1794813d-de5d-4ff8-b4e5-018f420aa91a.png)
+![1](https://user-images.githubusercontent.com/87450820/183792571-c957f1bc-d04b-4aaf-9836-188dbfe8289b.png) 
 
 <br>
 
